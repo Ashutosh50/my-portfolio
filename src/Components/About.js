@@ -18,7 +18,7 @@ const About = () => {
         Good day! Ashutosh Sahu here. I'm an enthusiastic and committed web developer looking to make a difference in the online community.
         I'm eager to use this portfolio, as a newcomer to the profession of web development, to demonstrate my abilities, originality, and excitement.
         I developed a solid foundation in web programming throughout my studies for B.Tech. in Computer Science Engineering, focusing on the front-end, 
-        and I have a working knowledge of the backend. I've studied HTML, CSS, and JavaScript in depth and developed practical skills with framework tools like React JS.
+        and I have a working knowledge of the backend. I've studied Java, SQl, HTML, CSS, and JavaScript in depth and developed practical skills with framework tools like React JS.
         </p>
 
         <br />

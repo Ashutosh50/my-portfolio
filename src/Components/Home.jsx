@@ -13,7 +13,7 @@ const Home = () => {
         <p className="text-gray-500 py-4 max-w-md">
           I have 1 years of experience building,designing and developing websites.
           Currently I love to work on web applications using technologies like  
-          React,Next,Tailwind and FIgma
+          React,Next,Tailwind and Figma.
         </p>
         <div>
         <Link
